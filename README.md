@@ -1,5 +1,5 @@
 
-# 🌾🧵 ML Crop Classification: Rice vs. Cotton (NDVI Time Series)
+# 🌾🧵 ML Crop Classification: Rice vs. Cotton 
 
 An interactive guide to explore the ML project classifying rice and cotton crops using NDVI data (2021-2023).  
 **Click sections below** to navigate!
